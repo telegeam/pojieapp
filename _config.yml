@@ -4,10 +4,10 @@
 baseurl:
 url: https://telegeam.github.io/pojieapp
 date_format: "ordinal"
-title: 免费节点每日更新
+title: 破解软件app分享
 subtitle: "clashv2raynode"
-description: "每日更新,clash节点,v2ray节点,SSR,Shadowrocket,免费节点"
-keywords: SSR,V2ray,Clash,Shadowrocket,clash,ss,ssr,trojan,v2ray,vmess,小火箭,订阅链, 
+description: "福利破解软件大全！分享精品软件、绅士游戏、破解VPN等内容."
+keywords: 破解,安卓破解,破解软件,注册码,补丁,破解版,去广告类软件,科学上网,加速器,吾爱破解, 
 timezone: Asia/Shanghai
 encoding: "utf-8"
 # 页面左下角显示的年份
@@ -40,7 +40,7 @@ components:
     # 修改图片请替换 assets/images/qrcode.jpg
     qrcode:
         enabled: true
-        image_alt: 免费节点 free clash v2ray node
+        image_alt: 破解软件app分享
     # 维基索引页使用哪种视图，支持 列表（list）/分类（cate）
     wiki:
         view: cate
@@ -70,7 +70,7 @@ email: #chumpma@gmail.com
 navs:
   -
     href: /
-    label:  免费节点
+    label:  破解软件app分享
 
   -
     href: /a/
