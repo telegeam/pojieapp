@@ -5,7 +5,7 @@ baseurl:
 url: https://telegeam.github.io/pojieapp
 date_format: "ordinal"
 title: 破解软件app分享
-subtitle: "clashv2raynode"
+subtitle: "破解软件app分享"
 description: "福利破解软件大全！分享精品软件、绅士游戏、破解VPN等内容."
 keywords: 破解,安卓破解,破解软件,注册码,补丁,破解版,去广告类软件,科学上网,加速器,吾爱破解, 
 timezone: Asia/Shanghai
@@ -71,11 +71,11 @@ navs:
   -
     href: /
     label:  破解软件app分享
-
-  -
-    href: /a/
-    label: 客户端
     mobile-hidden: true
+ # -
+   # href: /a/
+   # label: 客户端
+   # mobile-hidden: true
    #-
   #   href: /archives/
    #  label:  推荐热门
@@ -94,14 +94,14 @@ navs:
  #   href: /wiki/
  #   label: 维基
 
-  -
-   href: /links/
-   label: 纸飞机电报频道群组导航
-   mobile-hidden: true
+ # -
+ #  href: /links/
+  # label: 纸飞机电报频道群组导航
+  # mobile-hidden: true
 
-  -
-    href: /about/
-    label: 关于
+ # -
+  #  href: /about/
+  #  label: 关于
 
 # ---------------- #
 #       RSS        #
